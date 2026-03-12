@@ -1,0 +1,53 @@
+body{
+margin:0;
+font-family:Arial;
+background:#f5e6d3;
+}
+
+header{
+background:#4b2e2e;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+nav{
+background:#6b3f2a;
+padding:10px;
+text-align:center;
+}
+
+nav a{
+color:white;
+margin:15px;
+text-decoration:none;
+font-weight:bold;
+}
+
+.banner{
+background:#c8a27c;
+color:white;
+text-align:center;
+padding:80px;
+}
+
+section{
+padding:40px;
+}
+
+.menu{
+display:flex;
+gap:20px;
+}
+
+.cof{
+background:white;
+padding:20px;
+border-radius:10px;
+width:200px;
+}
+
+.cof input{
+background-color:#6b3f2a ;
+color: #f5e6d3;
+}
